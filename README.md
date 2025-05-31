@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naib Hanny</h1>
 <h3 align="center">I'm a software development student from Kenya</h3>
 
-- 🌱 I’m currently learning **Blender**
-
+- 🌱 I’m currently learning **Blender** and **Babylon.js**
+- 👯 I'm currently collaborating on a **Ping Pong Game** that will be available on a **Web Page**
 - 👯 I’m looking to collaborate on **Web Development / Game Development or Design / Animation**
-
 - 📫 How to reach me **naibadam09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
