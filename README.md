@@ -17,3 +17,4 @@ Bridging the gap between design and technology by creating compelling 3D experie
 - **3D Pipeline**: Maya/Blender → Three.js → Web
 - **Development**: JavaScript, WebGL, Interactive Design
 - **Workflow**: Git, Docker, Linux development environment
+- 
